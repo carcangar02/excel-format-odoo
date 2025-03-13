@@ -1,0 +1,1 @@
+Proyecto realizado recientemente para la empresa de un amigo en la que necesitaba el formateo de una serie de excels para la importacion en la base de datos de una herramienta para cliente de gestion empresarial
